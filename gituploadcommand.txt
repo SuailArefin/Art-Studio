@@ -1,3 +1,14 @@
 git remote add origin https://github.com/SuailArefin/Art-Studio.git
 git branch -M main   
 git push -u origin main
+
+
+
+
+
+
+
+to update
+git add .
+git commit -m "first commit"
+git push origin main
